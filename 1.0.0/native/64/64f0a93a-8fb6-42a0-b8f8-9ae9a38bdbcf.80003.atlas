@@ -1,0 +1,195 @@
+
+5win.png
+size: 1726,395
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_particle_a
+  rotate: true
+  xy: 797, 2
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+c8d7b45e-daec-4407-82de-2f0117829aad.79fa5/multiplier_vfx_c_00
+  rotate: false
+  xy: 226, 5
+  size: 82, 7
+  orig: 324, 184
+  offset: 118, 0
+  index: -1
+c8d7b45e-daec-4407-82de-2f0117829aad.79fa5/multiplier_vfx_c_01
+  rotate: false
+  xy: 430, 11
+  size: 140, 23
+  orig: 324, 184
+  offset: 81, 0
+  index: -1
+c8d7b45e-daec-4407-82de-2f0117829aad.79fa5/multiplier_vfx_c_02
+  rotate: false
+  xy: 430, 36
+  size: 181, 38
+  orig: 324, 184
+  offset: 71, 0
+  index: -1
+c8d7b45e-daec-4407-82de-2f0117829aad.79fa5/multiplier_vfx_c_03
+  rotate: false
+  xy: 226, 14
+  size: 202, 54
+  orig: 324, 184
+  offset: 61, 0
+  index: -1
+c8d7b45e-daec-4407-82de-2f0117829aad.79fa5/multiplier_vfx_c_04
+  rotate: false
+  xy: 1, 2
+  size: 223, 66
+  orig: 324, 184
+  offset: 50, 0
+  index: -1
+c8d7b45e-daec-4407-82de-2f0117829aad.79fa5/multiplier_vfx_c_05
+  rotate: false
+  xy: 877, 3
+  size: 252, 78
+  orig: 324, 184
+  offset: 33, 0
+  index: -1
+c8d7b45e-daec-4407-82de-2f0117829aad.79fa5/multiplier_vfx_c_06
+  rotate: false
+  xy: 1387, 21
+  size: 274, 88
+  orig: 324, 184
+  offset: 21, 0
+  index: -1
+c8d7b45e-daec-4407-82de-2f0117829aad.79fa5/multiplier_vfx_c_07
+  rotate: true
+  xy: 1019, 98
+  size: 296, 97
+  orig: 324, 184
+  offset: 9, 0
+  index: -1
+c8d7b45e-daec-4407-82de-2f0117829aad.79fa5/multiplier_vfx_c_08
+  rotate: true
+  xy: 519, 78
+  size: 316, 107
+  orig: 324, 184
+  offset: 0, 0
+  index: -1
+c8d7b45e-daec-4407-82de-2f0117829aad.79fa5/multiplier_vfx_c_09
+  rotate: true
+  xy: 265, 70
+  size: 324, 114
+  orig: 324, 184
+  offset: 0, 0
+  index: -1
+c8d7b45e-daec-4407-82de-2f0117829aad.79fa5/multiplier_vfx_c_10
+  rotate: true
+  xy: 899, 83
+  size: 311, 118
+  orig: 324, 184
+  offset: 7, 0
+  index: -1
+c8d7b45e-daec-4407-82de-2f0117829aad.79fa5/multiplier_vfx_c_11
+  rotate: true
+  xy: 138, 70
+  size: 324, 125
+  orig: 324, 184
+  offset: 0, 0
+  index: -1
+c8d7b45e-daec-4407-82de-2f0117829aad.79fa5/multiplier_vfx_c_12
+  rotate: true
+  xy: 1465, 115
+  size: 279, 131
+  orig: 324, 184
+  offset: 18, 0
+  index: -1
+c8d7b45e-daec-4407-82de-2f0117829aad.79fa5/multiplier_vfx_c_13
+  rotate: true
+  xy: 1118, 99
+  size: 295, 134
+  orig: 324, 184
+  offset: 9, 0
+  index: -1
+c8d7b45e-daec-4407-82de-2f0117829aad.79fa5/multiplier_vfx_c_14
+  rotate: true
+  xy: 761, 83
+  size: 311, 136
+  orig: 324, 184
+  offset: 0, 0
+  index: -1
+c8d7b45e-daec-4407-82de-2f0117829aad.79fa5/multiplier_vfx_c_15
+  rotate: true
+  xy: 381, 76
+  size: 318, 136
+  orig: 324, 184
+  offset: 0, 0
+  index: -1
+c8d7b45e-daec-4407-82de-2f0117829aad.79fa5/multiplier_vfx_c_16
+  rotate: true
+  xy: 1, 70
+  size: 324, 135
+  orig: 324, 184
+  offset: 0, 0
+  index: -1
+c8d7b45e-daec-4407-82de-2f0117829aad.79fa5/multiplier_vfx_c_17
+  rotate: true
+  xy: 628, 82
+  size: 312, 131
+  orig: 324, 184
+  offset: 12, 0
+  index: -1
+c8d7b45e-daec-4407-82de-2f0117829aad.79fa5/multiplier_vfx_c_18
+  rotate: true
+  xy: 1598, 123
+  size: 271, 127
+  orig: 324, 184
+  offset: 6, 0
+  index: -1
+c8d7b45e-daec-4407-82de-2f0117829aad.79fa5/multiplier_vfx_c_19
+  rotate: true
+  xy: 1355, 111
+  size: 283, 108
+  orig: 324, 184
+  offset: 0, 0
+  index: -1
+c8d7b45e-daec-4407-82de-2f0117829aad.79fa5/multiplier_vfx_c_20
+  rotate: true
+  xy: 1254, 106
+  size: 288, 99
+  orig: 324, 184
+  offset: 0, 2
+  index: -1
+c8d7b45e-daec-4407-82de-2f0117829aad.79fa5/multiplier_vfx_c_21
+  rotate: false
+  xy: 1131, 5
+  size: 254, 92
+  orig: 324, 184
+  offset: 29, 0
+  index: -1
+c8d7b45e-daec-4407-82de-2f0117829aad.79fa5/multiplier_vfx_c_22
+  rotate: false
+  xy: 628, 1
+  size: 167, 79
+  orig: 324, 184
+  offset: 85, 0
+  index: -1
+c8d7b45e-daec-4407-82de-2f0117829aad.79fa5/multiplier_vfx_c_23
+  rotate: false
+  xy: 310, 5
+  size: 7, 7
+  orig: 324, 184
+  offset: 82, 60
+  index: -1
+c8d7b45e-daec-4407-82de-2f0117829aad.79fa5/multiplier_vfx_c_24
+  rotate: false
+  xy: 319, 6
+  size: 6, 6
+  orig: 324, 184
+  offset: 78, 46
+  index: -1
+c8d7b45e-daec-4407-82de-2f0117829aad.79fa5/multiplier_vfx_c_25
+  rotate: false
+  xy: 226, 2
+  size: 1, 1
+  orig: 324, 184
+  offset: 323, 0
+  index: -1

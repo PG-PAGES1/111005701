@@ -1,0 +1,153 @@
+
+skeleton.png
+size: 1977,462
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11f80662-b76d-49d4-87c5-2dc18bcc78cd.0e4c8/collect_button
+  rotate: true
+  xy: 152, 145
+  size: 316, 128
+  orig: 324, 131
+  offset: 5, 0
+  index: -1
+caisesuipiantexiao/infoboard_vfx_a_00
+  rotate: false
+  xy: 973, 3
+  size: 95, 47
+  orig: 432, 305
+  offset: 178, 160
+  index: -1
+caisesuipiantexiao/infoboard_vfx_a_01
+  rotate: true
+  xy: 1906, 332
+  size: 129, 66
+  orig: 432, 305
+  offset: 157, 152
+  index: -1
+caisesuipiantexiao/infoboard_vfx_a_02
+  rotate: true
+  xy: 403, 5
+  size: 162, 91
+  orig: 432, 305
+  offset: 139, 137
+  index: -1
+caisesuipiantexiao/infoboard_vfx_a_03
+  rotate: false
+  xy: 1, 8
+  size: 188, 115
+  orig: 432, 305
+  offset: 126, 123
+  index: -1
+caisesuipiantexiao/infoboard_vfx_a_04
+  rotate: false
+  xy: 191, 5
+  size: 210, 138
+  orig: 432, 305
+  offset: 115, 110
+  index: -1
+caisesuipiantexiao/infoboard_vfx_a_05
+  rotate: false
+  xy: 496, 9
+  size: 228, 158
+  orig: 432, 305
+  offset: 107, 97
+  index: -1
+caisesuipiantexiao/infoboard_vfx_a_06
+  rotate: false
+  xy: 726, 3
+  size: 245, 177
+  orig: 432, 305
+  offset: 99, 85
+  index: -1
+caisesuipiantexiao/infoboard_vfx_a_07
+  rotate: false
+  xy: 1237, 1
+  size: 260, 195
+  orig: 432, 305
+  offset: 92, 74
+  index: -1
+caisesuipiantexiao/infoboard_vfx_a_08
+  rotate: true
+  xy: 759, 187
+  size: 274, 213
+  orig: 432, 305
+  offset: 85, 63
+  index: -1
+caisesuipiantexiao/infoboard_vfx_a_09
+  rotate: true
+  xy: 528, 182
+  size: 279, 229
+  orig: 432, 305
+  offset: 86, 53
+  index: -1
+caisesuipiantexiao/infoboard_vfx_a_10
+  rotate: true
+  xy: 282, 169
+  size: 292, 244
+  orig: 432, 305
+  offset: 79, 42
+  index: -1
+caisesuipiantexiao/infoboard_vfx_a_11
+  rotate: true
+  xy: 974, 195
+  size: 266, 240
+  orig: 432, 305
+  offset: 93, 50
+  index: -1
+caisesuipiantexiao/infoboard_vfx_a_12
+  rotate: true
+  xy: 1466, 207
+  size: 254, 220
+  orig: 432, 305
+  offset: 98, 42
+  index: -1
+caisesuipiantexiao/infoboard_vfx_a_13
+  rotate: false
+  xy: 1499, 7
+  size: 233, 198
+  orig: 432, 305
+  offset: 124, 63
+  index: -1
+caisesuipiantexiao/infoboard_vfx_a_14
+  rotate: false
+  xy: 1734, 3
+  size: 242, 207
+  orig: 432, 305
+  offset: 120, 54
+  index: -1
+caisesuipiantexiao/infoboard_vfx_a_15
+  rotate: true
+  xy: 1688, 212
+  size: 249, 216
+  orig: 432, 305
+  offset: 117, 45
+  index: -1
+caisesuipiantexiao/infoboard_vfx_a_16
+  rotate: true
+  xy: 1241, 205
+  size: 256, 223
+  orig: 432, 305
+  offset: 114, 38
+  index: -1
+caisesuipiantexiao/infoboard_vfx_a_17
+  rotate: false
+  xy: 973, 52
+  size: 262, 133
+  orig: 432, 305
+  offset: 112, 65
+  index: -1
+caisesuipiantexiao/infoboard_vfx_a_18
+  rotate: true
+  xy: 1216, 198
+  size: 263, 23
+  orig: 432, 305
+  offset: 114, 75
+  index: -1
+mianfeianniutexiao/mhover_vfx_02
+  rotate: true
+  xy: 1, 125
+  size: 336, 149
+  orig: 336, 149
+  offset: 0, 0
+  index: -1
